@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="ai_art1_title">Picture of Adoloscence</string>
+    <string name="ai_art10_title">Golden Women</string>
+    <string name="ai_art11_title">Space Man</string>
+    <string name="ai_art12_title">Warrior</string>
+    <string name="ai_art5_title">Black Superman</string>
+    <string name="ai_art6_title">The Evil Kaiser</string>
+    <string name="ai_art7_title">Look into my eyes</string>
+    <string name="ai_art8_title">Underneath the Pyramid of Giza</string>
+    <string name="ai_art9_title">Forest of enchantment</string>
+    <string name="ai_art2_title">Vegeteranian</string>
+    <string name="ai_art3_title">The dichotomy of natural beauty</string>
+    <string name="ai_art4_title">Seaborn, Seablessed</string>
+    <string name="ai_art13_title">Haunted Hosts</string>
+    <string name="ai_art14_title">Bluebird</string>
+    <string name="ai_art15_title">Grand Halloween</string>
+    <string name="ai_art16_title">Chinese New Year, 2290</string>
+    <string name="ai_art17_title">Lost at Sea</string>
+    <string name="ai_art18_title">The Golden Compass</string>
+    <string name="ai_art19_title">Simba, Universe 2301</string>
+    <string name="ai_art20_title">Cult of the dead</string>
+    <string name="ai_art21_title">Sundown Dreaming</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="ai_art1_artist">Midjourney (2023)</string>
+    <string name="ai_art2_artist">Dall E (2023)</string>
+    <string name="ai_art3_artist">Disco Diffusion (2023)</string>
+</resources>
